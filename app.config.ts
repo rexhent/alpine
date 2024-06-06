@@ -28,7 +28,7 @@ export default defineAppConfig({
     },
     socials: {
       twitter: 'rexhent',
-      instagram: 'rexhent',
+      instagram: 'ilovethecanberralightrail',
 
       linkedin: {
         icon: 'uil:linkedin',
